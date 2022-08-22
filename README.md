@@ -26,3 +26,6 @@
    4. copy index.html content to App.js
    5. copy style.css content to index.css
    6. replace class with className
+
+
+   Changed location
